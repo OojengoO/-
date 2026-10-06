@@ -1,0 +1,6 @@
+{
+  "name": "สพ.ทร.บางนา - ระบบตารางเวรและเบอร์ฉุกเฉิน",
+  "description": "ระบบจัดตารางเวรประจำวัน นายทหารเวรดับเพลิง เวรไฟฟ้า-ประปา สพ.ทร.บางนา พร้อมสมุดโทรศัพท์ฉุกเฉินและแบบบันทึกเหตุการณ์",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
